@@ -53,12 +53,11 @@ Mobil öncelikli, sade ama çarpıcı bir sunum amaçlayan bu mini proje; portfo
 
 ---
 
-## 📸 Görsel:
-https://github.com/user-attachments/assets/15559f78-f2ab-4eaf-9edf-0658123125f8
-
 | 🌐 Platform | 🔗 Bağlantı |
 |------------|------------|
 | 💖 Instagram | [@narla.scode](https://www.instagram.com/narla.scode/?next=%2F) |
+
+---
 
 # 🪪 Lisans:
 Bu proje, kişisel ve eğitimsel kullanım için uygundur.
@@ -67,5 +66,9 @@ Ticari kullanımlarda lütfen geliştiriciyle iletişime geçin.
 # ✨ Geliştirici:
 🖋️ "Kodlarımda her zaman estetik ve sadeliği bir araya getirerek kullanıcıya hem görsel hem işlevsel bir deneyim sunmaya çalışırım."
 
+---
+
+## 📸 Görsel:
+https://github.com/user-attachments/assets/52731559-422a-4513-90d8-79cc4cae6a80
 
 
